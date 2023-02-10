@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#define int long long
+#define int long long // esse int long long é importante pois a resposta pode ser n*(n-1)/2 que é O(N^2), que passa do limite do int
 using namespace std;
 
 int32_t main(){
